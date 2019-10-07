@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# g1_flowerheal
-=======
 # 꽃미힐미 - 플라워테라피 정기구독
 
 # 동기
@@ -56,4 +53,3 @@
 
 # 보완계획
 - 장바구니 상품 선택주문 기능 추가
->>>>>>> branch 'master' of https://github.com/manyfaced3/g1_flowerheal.git
