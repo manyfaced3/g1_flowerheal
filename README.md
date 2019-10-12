@@ -1,5 +1,11 @@
 # 꽃미힐미 - 플라워테라피 정기구독
 
+# Video
+[동영상시연](https://www.youtube.com/watch?v=Onevj9_JwwM)
+
+# Git History
+[작업 히스토리](https://github.com/flowerheal/flowerheal_demo)
+
 # 동기
 - 단순히 꽃다발만 제공하는 기존 꽃 정기구독 서비스에서 범위를 넓혀<br>
   플라워테라피를 패키지상품(꽃다발+캔들+꽃차 등)으로 제공하는 정기구독 서비스 사이트를 기획했습니다.
@@ -45,11 +51,6 @@
 - 마이페이지에서 구독정보 조회, 회원정보수정, 비밀번호수정, 회원탈퇴<br>
 - 주문완료, 배송완료 이메일 발송<br> 
 
-# Video
-[동영상시연](https://www.youtube.com/watch?v=Onevj9_JwwM)
-
-# Git History
-[작업 히스토리](https://github.com/flowerheal/flowerheal_demo)
 
 # 보완계획
 - 장바구니 상품 선택주문 기능 추가
